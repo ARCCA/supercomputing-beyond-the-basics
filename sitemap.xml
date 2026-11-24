@@ -10,6 +10,9 @@
     <loc>https://josemunozc.github.io/supercomputing-beyond-the-basics/LICENSE.html</loc>
   </url>
   <url>
+    <loc>https://josemunozc.github.io/supercomputing-beyond-the-basics/aio.html</loc>
+  </url>
+  <url>
     <loc>https://josemunozc.github.io/supercomputing-beyond-the-basics/array-jobs-and-parallel.html</loc>
   </url>
   <url>
@@ -28,6 +31,9 @@
     <loc>https://josemunozc.github.io/supercomputing-beyond-the-basics/finding-software.html</loc>
   </url>
   <url>
+    <loc>https://josemunozc.github.io/supercomputing-beyond-the-basics/images.html</loc>
+  </url>
+  <url>
     <loc>https://josemunozc.github.io/supercomputing-beyond-the-basics/improving-the-code.html</loc>
   </url>
   <url>
@@ -41,6 +47,9 @@
   </url>
   <url>
     <loc>https://josemunozc.github.io/supercomputing-beyond-the-basics/instructor/LICENSE.html</loc>
+  </url>
+  <url>
+    <loc>https://josemunozc.github.io/supercomputing-beyond-the-basics/instructor/aio.html</loc>
   </url>
   <url>
     <loc>https://josemunozc.github.io/supercomputing-beyond-the-basics/instructor/array-jobs-and-parallel.html</loc>
@@ -61,16 +70,25 @@
     <loc>https://josemunozc.github.io/supercomputing-beyond-the-basics/instructor/finding-software.html</loc>
   </url>
   <url>
+    <loc>https://josemunozc.github.io/supercomputing-beyond-the-basics/instructor/images.html</loc>
+  </url>
+  <url>
     <loc>https://josemunozc.github.io/supercomputing-beyond-the-basics/instructor/improving-the-code.html</loc>
   </url>
   <url>
     <loc>https://josemunozc.github.io/supercomputing-beyond-the-basics/instructor/index.html</loc>
   </url>
   <url>
+    <loc>https://josemunozc.github.io/supercomputing-beyond-the-basics/instructor/instructor-notes.html</loc>
+  </url>
+  <url>
     <loc>https://josemunozc.github.io/supercomputing-beyond-the-basics/instructor/interactive-sessions.html</loc>
   </url>
   <url>
     <loc>https://josemunozc.github.io/supercomputing-beyond-the-basics/instructor/introduction.html</loc>
+  </url>
+  <url>
+    <loc>https://josemunozc.github.io/supercomputing-beyond-the-basics/instructor/key-points.html</loc>
   </url>
   <url>
     <loc>https://josemunozc.github.io/supercomputing-beyond-the-basics/instructor/profiles.html</loc>
@@ -91,10 +109,16 @@
     <loc>https://josemunozc.github.io/supercomputing-beyond-the-basics/instructor/using-gpus.html</loc>
   </url>
   <url>
+    <loc>https://josemunozc.github.io/supercomputing-beyond-the-basics/instructor-notes.html</loc>
+  </url>
+  <url>
     <loc>https://josemunozc.github.io/supercomputing-beyond-the-basics/interactive-sessions.html</loc>
   </url>
   <url>
     <loc>https://josemunozc.github.io/supercomputing-beyond-the-basics/introduction.html</loc>
+  </url>
+  <url>
+    <loc>https://josemunozc.github.io/supercomputing-beyond-the-basics/key-points.html</loc>
   </url>
   <url>
     <loc>https://josemunozc.github.io/supercomputing-beyond-the-basics/profiles.html</loc>
